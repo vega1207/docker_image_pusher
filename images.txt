@@ -1,1 +1,1 @@
-mcmattia/stm32cubeide-docker
+mcmattia/stm32cubeide-docker:1.0
