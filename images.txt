@@ -1,2 +1,1 @@
-mcmattia/stm32cubeide-docker:1.0
 axceta/stm32cubeprogrammer
